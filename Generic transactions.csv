@@ -1,0 +1,12 @@
+Transaction ID,Transaction
+Trans1,"A, B, C"
+Trans2,"A, B, C"
+Trans3,"A, B, C, D"
+Trans4,"A, B, C, D, E"
+Trans5,"A, B, D, E"
+Trans6,"A, D, E"
+Trans7,"A, E"
+Trans8,"A, E"
+Trans9,"A, C, E"
+Trans10,"A, C, E"
+Trans11,"A, C, E"
